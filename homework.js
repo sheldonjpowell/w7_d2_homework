@@ -26,7 +26,8 @@ console.log('Hello World')
 //         this.password = password
 //     }
 //     username(){
-
+            let username = window.prompt("What's your name?");
+            console.log(username);
 //     }
 //     password(){
 
